@@ -1,4 +1,6 @@
-### Hi there 👋
+![](banner.gif)
+
+<!-- Banner made with 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎: https://codesandbox.io/s/readme-intro-gif-forked-truvzj -->
 
 <p  align="center">
   <img src="https://raw.githubusercontent.com/originalnicodr/originalnicodr/main/profile-summary-card-output/default/0-profile-details.svg?token=GHSAT0AAAAAABZY5FWUHZCH475KFQAAU2KGY7HVNBQ" alt="github stats"></br>
