@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=originalnicodr&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=originalnicodr&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=originalnicodr&theme=default)
 
 <p  align="center">
   <img src="https://raw.githubusercontent.com/originalnicodr/originalnicodr/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
