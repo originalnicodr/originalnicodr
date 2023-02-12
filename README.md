@@ -1,4 +1,4 @@
-<img  align="right" alt="Intro" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif">
+<img  align="right" alt="Intro" src="banner.gif">
 
 <!-- Banner made with 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎: https://codesandbox.io/s/readme-intro-gif-forked-truvzj -->
 
@@ -12,11 +12,9 @@
 
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
-<hr>
-
 # ✨ About me
 
-<img align="right" alt="Corgi" src="corgi.jfif" width="350" style="margin-left: 20px;"/>
+<img align="right" alt="Corgi" src="corgi.jpg" width="350" style="margin-left: 20px;"/>
 
 Currently a computer science student working as a software engineer.
 
@@ -34,7 +32,7 @@ I like photography and virtual photography! If you want to see some of my work (
 
 # 🛠️ Tools
 
-## What I tend to use
+<h2> What I tend to use </h2>
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white">
@@ -43,7 +41,7 @@ I like photography and virtual photography! If you want to see some of my work (
 </p>
 
 
-## What I sometimes use (always learning 🌱)
+<h2> What I sometimes use (always learning 🌱) </h2>
 
 <p align="left">
   <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-%23CF4647.svg?logo=jekyll&logoColor=white">
@@ -65,7 +63,7 @@ I like photography and virtual photography! If you want to see some of my work (
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
 </p>
 
-## Other tools and knowledge
+<h2> Other tools and knowledge </h2>
 
 <p align="left">
   <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green">
