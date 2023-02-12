@@ -1,4 +1,4 @@
-![Hi There! I am Nico!](banner.gif)
+<img src="banner.gif">
 
 <!-- Banner made with 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎: https://codesandbox.io/s/readme-intro-gif-forked-truvzj -->
 
@@ -76,10 +76,10 @@ I like photography and virtual photography! If you want to see some of my work (
 # 🚀 Projects
 
 <p align="center">
-<a href="https://github.com/originalnicodr/CorgiFX"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CorgiFX" alt="CorgiFX"></a>
-<a href="https://github.com/originalnicodr/RELit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=RELit" alt="RELit"></a>
-<a href="https://github.com/originalnicodr/CuratorDiscordBot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CuratorDiscordBot" alt="CuratorDiscordBot"></a>
-<a href="https://github.com/framedsc/Sitesource"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=Sitesource&show_owner=true" alt="Framed site"></a>
+<a href="https://github.com/originalnicodr/CorgiFX"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CorgiFX" alt="CorgiFX"></a>
+<a href="https://github.com/originalnicodr/RELit"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=RELit" alt="RELit"></a>
+<a href="https://github.com/originalnicodr/CuratorDiscordBot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CuratorDiscordBot" alt="CuratorDiscordBot"></a>
+<a href="https://github.com/framedsc/Sitesource"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=Sitesource&show_owner=true" alt="Framed site"></a>
 </p>
 
 # ✒️ Latest blog posts
