@@ -1,4 +1,4 @@
-<img  align="right" alt="Intro" src="banner.gif">
+<img  align="right" alt="Intro" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif">
 
 <!-- Banner made with 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎: https://codesandbox.io/s/readme-intro-gif-forked-truvzj -->
 
@@ -100,4 +100,4 @@ I like photography and virtual photography! If you want to see some of my work (
 <a href="mailto:niconavall@gmail.com">
   <img align="left" alt="Email" width="20px" src="https://simpleicons.now.sh/gmail/4e8ade"/>
 </a>
-| &nbsp;&nbsp;&nbsp; Website : [originalnicodr.github.io](https://originalnicodr.github.io)
+| &nbsp;&nbsp;&nbsp; Website : <a href="https://originalnicodr.github.io">originalnicodr.github.io</a>
