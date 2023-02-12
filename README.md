@@ -18,11 +18,11 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 Currently a computer science student working as a software engineer.
 
-I like to work on interesting problems, as well as create stuff that I (and hopefully others) find useful. I love to find unresolved needs and create projects around them.
+I like to work on interesting problems, as well as create stuff that I (and hopefully others) find helpful. I love to find unresolved needs and create projects around them.
 
 I really enjoy working in environments that encourage learning, code quality, and personal growth.
 
-My interests varies from machine learning and math to graphic design, modding and the gaming industry as a whole.
+My interests vary from machine learning and math to graphic design, modding and the gaming industry as a whole.
 
 Long live the open source!
 
@@ -35,7 +35,7 @@ I like photography and virtual photography! If you want to see some of my work (
 ### What I tend to use
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
   <img alt="Unittest" src="https://img.shields.io/badge/-unittest-yellowgreen?logo=python&logoColor=white">
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white">
 </p>
