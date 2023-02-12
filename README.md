@@ -24,6 +24,10 @@ Long live the open source!
 
 ![Corgi picture]()
 
+# Fun fact
+
+I like photography and virtual photography! If you want to see some of my work (only of the latter for now) head over to [my site](https://originalnicodr.github.io/virtual-photography/)!
+
 # Tools
 
 ## What I tend to use
@@ -86,10 +90,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Fun fact
-
-I like photography and virtual photography! If you want to see some of my work (only of the latter for now) head over to [my site](https://originalnicodr.github.io/virtual-photography/)!
 
 
 --- 
