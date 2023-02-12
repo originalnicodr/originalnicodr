@@ -1,4 +1,4 @@
-<img alt="Intro" src="https://raw.githubusercontent.com/originalnicodr/originalnicodr/master/banner.gif">
+<img alt="Intro" src="https://raw.githubusercontent.com/originalnicodr/originalnicodr/main/banner.gif">
 
 <!-- Banner made with 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎: https://codesandbox.io/s/readme-intro-gif-forked-truvzj -->
 
