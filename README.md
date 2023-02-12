@@ -1,16 +1,6 @@
-<img  align="right" alt="Intro" src="banner.gif">
+<img alt="Intro" src="https://raw.githubusercontent.com/originalnicodr/originalnicodr/master/banner.gif">
 
 <!-- Banner made with 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎: https://codesandbox.io/s/readme-intro-gif-forked-truvzj -->
-
-<hr>
-
-<p align="center">
-  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="profile-summary-card-output/default/3-stats.svg"></br>
-</p>
-
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 # ✨ About me
 
@@ -32,7 +22,7 @@ I like photography and virtual photography! If you want to see some of my work (
 
 # 🛠️ Tools
 
-<h2> What I tend to use </h2>
+<p style="font-size: 22px;">What I tend to use</p>
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white">
@@ -41,8 +31,7 @@ I like photography and virtual photography! If you want to see some of my work (
 </p>
 
 
-<h2> What I sometimes use (always learning 🌱) </h2>
-
+<p style="font-size: 22px;">What I sometimes use (always learning 🌱)</p>
 <p align="left">
   <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-%23CF4647.svg?logo=jekyll&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
@@ -63,7 +52,7 @@ I like photography and virtual photography! If you want to see some of my work (
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
 </p>
 
-<h2> Other tools and knowledge </h2>
+<p style="font-size: 22px;">Other tools and knowledge</p>
 
 <p align="left">
   <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green">
@@ -87,6 +76,16 @@ I like photography and virtual photography! If you want to see some of my work (
 
 - [How we made a high quality image gallery without paying a single dime](https://originalnicodr.github.io/blog/how-we-made-a-high-quality-image-gallery-without-paying-a-single-dime)
 - [How to create and host your own portfolio for free](https://originalnicodr.github.io/blog/how-to-create-and-host-your-own-portfolio-for-free)
+
+<hr>
+
+<p align="center">
+  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="profile-summary-card-output/default/3-stats.svg"></br>
+</p>
+
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 --- 
 <a href="https://twitter.com/originalnicodr">
