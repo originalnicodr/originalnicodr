@@ -63,8 +63,14 @@ Long live the open source!
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
 
-
 # Projects
+
+[![CorgiFX](https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CorgiFX)](https://github.com/originalnicodr/CorgiFX)
+
+[![RELit](https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=RELit)](https://github.com/originalnicodr/RELit)
+
+[![CuratorDiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CuratorDiscordBot)](https://github.com/originalnicodr/CuratorDiscordBot)
+
 
 <!--
 **originalnicodr/originalnicodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
