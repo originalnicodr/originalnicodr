@@ -1,34 +1,40 @@
-![](https://raw.githubusercontent.com/originalnicodr/originalnicodr/main/banner.gif?token=GHSAT0AAAAAABZY5FWU2OPB5H3ZUN47SPT4Y7HZ36Q)
+![Hi There! I am Nico!](banner.gif)
 
 <!-- Banner made with 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎: https://codesandbox.io/s/readme-intro-gif-forked-truvzj -->
 
 <hr>
 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/originalnicodr/originalnicodr/main/profile-summary-card-output/default/0-profile-details.svg?token=GHSAT0AAAAAABZY5FWUHZCH475KFQAAU2KGY7HVNBQ" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/originalnicodr/originalnicodr/main/profile-summary-card-output/default/1-repos-per-language.svg?token=GHSAT0AAAAAABZY5FWUDYZHAYGQOX7UT6OCY7HVNXA">
-  <img src="https://raw.githubusercontent.com/originalnicodr/originalnicodr/main/profile-summary-card-output/default/3-stats.svg?token=GHSAT0AAAAAABZY5FWULAE3T634OFLU2JI4Y7HVN7Q"></br></p>
+<p align="center">
+  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="profile-summary-card-output/default/3-stats.svg"></br>
+</p>
 
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 <hr>
 
-# About me
+# ✨ About me
+
+<img align="right" src="corgi.jfif" width="350" style="margin-left: 20px;"/>
+
+
+
 Currently a computer science student working as a software engineer.
 
 I like to work on interesting problems, as well as create stuff that I (and hopefully others) find useful. I love to find unresolved needs and create projects around them.
 
 I really enjoy working in environments that encourage learning, code quality, and personal growth.
 
+My interests varies from machine learning and math to graphic design, modding and the gaming industry as a whole.
+
 Long live the open source!
 
-![Corgi picture]()
-
-# Fun fact
+# ⚡ Fun fact
 
 I like photography and virtual photography! If you want to see some of my work (only of the latter for now) head over to [my site](https://originalnicodr.github.io/virtual-photography/)!
 
-# Tools
+# 🛠️ Tools
 
 ## What I tend to use
 
@@ -67,14 +73,19 @@ I like photography and virtual photography! If you want to see some of my work (
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
 
-# Projects
+# 🚀 Projects
 
-[![CorgiFX](https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CorgiFX)](https://github.com/originalnicodr/CorgiFX)
+<p align="center">
+<a href="https://github.com/originalnicodr/CorgiFX"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CorgiFX" alt="CorgiFX"></a>
+<a href="https://github.com/originalnicodr/RELit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=RELit" alt="RELit"></a>
+<a href="https://github.com/originalnicodr/CuratorDiscordBot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CuratorDiscordBot" alt="CuratorDiscordBot"></a>
+<a href="https://github.com/framedsc/Sitesource"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=Sitesource&show_owner=true" alt="Framed site"></a>
+</p>
 
-[![RELit](https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=RELit)](https://github.com/originalnicodr/RELit)
+# ✒️ Latest blog posts
 
-[![CuratorDiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CuratorDiscordBot)](https://github.com/originalnicodr/CuratorDiscordBot)
-
+- [How we made a high quality image gallery without paying a single dime](https://originalnicodr.github.io/blog/how-we-made-a-high-quality-image-gallery-without-paying-a-single-dime)
+- [How to create and host your own portfolio for free](https://originalnicodr.github.io/blog/how-to-create-and-host-your-own-portfolio-for-free)
 
 <!--
 **originalnicodr/originalnicodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
