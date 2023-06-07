@@ -37,26 +37,25 @@ I also like photography and virtual photography! If you want to see some of my w
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
   <img alt="Unittest" src="https://img.shields.io/badge/-unittest-yellowgreen?logo=python&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white">
 </p>
-
 
 ### What I sometimes use (always learning 🌱)
 <p align="left">
   <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
   <img alt="ReShade FX" src="https://img.shields.io/badge/ReShade FX-%23CF4647.svg?logo=hlsl&logoColor=white">
   <img alt="Godot" src="https://img.shields.io/badge/Godot-1572B6?logo=godot-engine&logoColor=white">
-  <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?logo=lua&logoColor=white">
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
   <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-03599C.svg?logo=c-sharp&logoColor=white">
-  <img alt="Unity" src="https://img.shields.io/badge/unity-010101.svg?logo=unity&logoColor=white">
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-010101.svg?logo=unity&logoColor=white">
   <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C%2B%2B-03599C.svg?logo=c%2B%2B&logoColor=white">
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
   <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white">
   <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-%23CF4647.svg?logo=jekyll&logoColor=white">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
