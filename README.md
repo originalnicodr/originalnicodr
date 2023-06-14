@@ -30,6 +30,8 @@ Long live the open source!
 
 I also like photography and virtual photography! If you want to see some of my work (only of the latter for now) head over to [my site](https://originalnicodr.github.io/virtual-photography/)!
 
+In addition to that, I enjoy making games! Feel free to check out the projects I worked on in [here](https://itch.io/profile/originalnicodr). 
+
 # 🛠️ Tools
 
 ### What I tend to use
