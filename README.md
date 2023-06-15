@@ -80,7 +80,7 @@ In addition to that, I enjoy making games! Feel free to check out the projects I
 
 # 🚀 Projects
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/originalnicodr/CorgiFX"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CorgiFX" alt="CorgiFX"></a>
   <a href="https://github.com/originalnicodr/RELit"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=RELit" alt="RELit"></a>
   <a href="https://github.com/originalnicodr/CuratorDiscordBot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CuratorDiscordBot" alt="CuratorDiscordBot"></a>
