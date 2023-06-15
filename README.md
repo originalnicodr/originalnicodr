@@ -85,6 +85,7 @@ In addition to that, I enjoy making games! Feel free to check out the projects I
   <a href="https://github.com/originalnicodr/RELit"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=RELit" alt="RELit"></a>
   <a href="https://github.com/originalnicodr/CuratorDiscordBot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CuratorDiscordBot" alt="CuratorDiscordBot"></a>
   <a href="https://github.com/framedsc/Sitesource"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=Sitesource&show_owner=true" alt="Framed site"></a>
+  <a href="https://github.com/originalnicodr/UnityExplorer"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=UnityExplorer&show_owner=true" alt="UnityExplorer"></a>
 </p>
 
 # ✒️ Latest blog posts
