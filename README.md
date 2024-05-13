@@ -80,12 +80,13 @@ In addition to that, I enjoy making games! Feel free to check out the projects I
 # 🚀 Projects
 
 <p align="left">
+  <a href="https://github.com/originalnicodr/CinematicUnityExplorer"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CinematicUnityExplorer&show_owner=false" alt="CinematicUnityExplorer"></a>
   <a href="https://github.com/originalnicodr/CorgiFX"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CorgiFX" alt="CorgiFX"></a>
   <a href="https://github.com/originalnicodr/RELit"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=RELit" alt="RELit"></a>
   <a href="https://github.com/originalnicodr/CuratorDiscordBot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=CuratorDiscordBot" alt="CuratorDiscordBot"></a>
   <a href="https://github.com/framedsc/Sitesource"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=Sitesource&show_owner=true" alt="Framed site"></a>
   <a href="https://github.com/framedsc/HOFWallpaper"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=HOFWallpaper&show_owner=true" alt="HOFWallpaper"></a>
-  <a href="https://github.com/originalnicodr/UnityExplorer"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=UnityExplorer&show_owner=true" alt="UnityExplorer"></a>
+  <a href="https://github.com/framedsc/framed-wrapped"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=framed-wrapped&show_owner=true" alt="framed-wrapped"></a>
 </p>
 
 # ✒️ Latest blog posts
