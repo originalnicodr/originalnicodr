@@ -36,6 +36,7 @@ In addition to that, I enjoy making games! Feel free to check out the projects I
 
 ### What I tend to use
 <p align="left">
+  <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C%2B%2B-03599C.svg?logo=c%2B%2B&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
   <img alt="Unittest" src="https://img.shields.io/badge/-unittest-yellowgreen?logo=python&logoColor=white">
@@ -43,13 +44,11 @@ In addition to that, I enjoy making games! Feel free to check out the projects I
 
 ### What I sometimes use (always learning 🌱)
 <p align="left">
-  <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+  <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-03599C.svg?logo=c-sharp&logoColor=white">
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-010101.svg?logo=unity&logoColor=white">
   <img alt="ReShade FX" src="https://img.shields.io/badge/ReShade FX-%23CF4647.svg?logo=hlsl&logoColor=white">
   <img alt="Godot" src="https://img.shields.io/badge/Godot-1572B6?logo=godot-engine&logoColor=white">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
-  <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-03599C.svg?logo=c-sharp&logoColor=white">
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-010101.svg?logo=unity&logoColor=white">
-  <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C%2B%2B-03599C.svg?logo=c%2B%2B&logoColor=white">
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white">
   <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
