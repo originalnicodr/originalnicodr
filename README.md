@@ -16,7 +16,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 <img align="right" alt="Corgi" src="corgi.jpg" width="350" style="margin-left: 20px;"/>
 
-Currently a computer science student working as a software engineer.
+Master's graduate in Computer Science, currently working as a Software Engineer.
 
 I like to work on interesting and challenging problems and reach simple and elegant solutions. I enjoy working on projects that I (and hopefully others) find helpful, especially if none has aimed to do something similar yet.
 
@@ -37,9 +37,11 @@ In addition to that, I enjoy making games! Feel free to check out the projects I
 ### What I tend to use
 <p align="left">
   <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C%2B%2B-03599C.svg?logo=c%2B%2B&logoColor=white">
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-grey?logo=Qt">
+  <img alt="GoogleTest" src="https://img.shields.io/badge/GoogleTest-yellow">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
-  <img alt="Unittest" src="https://img.shields.io/badge/-unittest-yellowgreen?logo=python&logoColor=white">
+  <img alt="Pytest" src="https://img.shields.io/badge/pytest-green?logo=pytest">
 </p>
 
 ### What I sometimes use (always learning 🌱)
@@ -49,18 +51,15 @@ In addition to that, I enjoy making games! Feel free to check out the projects I
   <img alt="ReShade FX" src="https://img.shields.io/badge/ReShade FX-%23CF4647.svg?logo=hlsl&logoColor=white">
   <img alt="Godot" src="https://img.shields.io/badge/Godot-1572B6?logo=godot-engine&logoColor=white">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
-  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white">
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white">
+  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white">
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
+  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
   <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-%23CF4647.svg?logo=jekyll&logoColor=white">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
   <img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy">
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
@@ -69,12 +68,10 @@ In addition to that, I enjoy making games! Feel free to check out the projects I
 ### Other tools and knowledge
 
 <p align="left">
-  <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green">
-  <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white">
 </p>
 
 # 🚀 Projects
@@ -96,12 +93,12 @@ In addition to that, I enjoy making games! Feel free to check out the projects I
 
 --- 
 <a href="https://twitter.com/originalnicodr">
-  <img align="left" alt="Twitter" width="20px" src="https://simpleicons.now.sh/twitter/4e8ade"/>
+  <img align="left" alt="Twitter" width="20px" src="./include/twitter.svg" class="blackbg"/>
 </a>
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-uriel-navall-b38022174/">
-  <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/4e8ade"/>
+  <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/000"/>
 </a>
 <a href="mailto:niconavall@gmail.com">
-  <img align="left" alt="Email" width="20px" src="https://simpleicons.now.sh/gmail/4e8ade"/>
+  <img align="left" alt="Email" width="20px" src="https://simpleicons.vercel.app/gmail/000"/>
 </a>
 | &nbsp;&nbsp;&nbsp; Website : <a href="https://originalnicodr.github.io">originalnicodr.github.io</a>
