@@ -84,6 +84,7 @@ In addition to that, I enjoy making games! Feel free to check out the projects I
   <a href="https://github.com/framedsc/Sitesource"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=Sitesource&show_owner=true" alt="Framed site"></a>
   <a href="https://github.com/framedsc/framed-wrapped"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=framed-wrapped&show_owner=true" alt="framed-wrapped"></a>
   <a href="https://github.com/framedsc/HOFWallpaper"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=framedsc&repo=HOFWallpaper&show_owner=true" alt="HOFWallpaper"></a>
+  <a href="https://github.com/originalnicodr/EspoilerBlocker"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=originalnicodr&repo=EspoilerBlocker&show_owner=false" alt="EspoilerBlocker"></a>
 </p>
 
 # ✒️ Latest blog posts
